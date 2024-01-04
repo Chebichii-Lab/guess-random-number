@@ -15,4 +15,8 @@ def guess(x):
     
     print(f'Yay, congrats. You have guessed the number {random_number} correctly.')
 
+
+# the computer guesses the number for a user
+def computer_guess(x):
+    
 guess(10)
